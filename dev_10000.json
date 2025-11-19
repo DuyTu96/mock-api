@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": 1, "title": "Create Express app", "completed": true },
+    { "id": 2, "title": "Add JSON Server", "completed": false }
+  ]
+}
+
